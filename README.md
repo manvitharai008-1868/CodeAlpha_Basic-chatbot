@@ -86,3 +86,7 @@ Applying programming concepts to real-world scenarios
 
 #Author#
 ---
+
+<img width="611" height="227" alt="image" src="https://github.com/user-attachments/assets/cc5725e5-cdf3-4efd-b207-54cecda05e03" />
+
+<img width="282" height="215" alt="image" src="https://github.com/user-attachments/assets/781d167e-6757-4754-91ed-c44659af1f1e" />
